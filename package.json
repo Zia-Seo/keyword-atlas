@@ -1,0 +1,9 @@
+{
+  "name": "keyword-atlas",
+  "version": "3.0.0",
+  "description": "AI-powered global keyword equivalency research tool",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
